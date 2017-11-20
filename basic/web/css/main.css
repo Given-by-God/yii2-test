@@ -1,0 +1,6 @@
+#form,.table,#reload,#amount,#nameOfImg,#img{
+    display: none;
+}
+figcaption{
+    text-align: center;
+}
